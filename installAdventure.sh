@@ -8,4 +8,4 @@ sudo cp adventure removeAdventure.sh /usr/local/bin
 
 cd ../
 
-rm -rf /adventure
+rm -rf adventure/
