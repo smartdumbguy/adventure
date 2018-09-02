@@ -9,7 +9,7 @@ Simple text adventure game
 
 `chmod +x installAdventure.sh`
 
-`installAdventure.sh`
+`./installAdventure.sh`
 
 ## Uninstall:
 
