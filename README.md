@@ -9,4 +9,4 @@ Install:
 
 Uninstall:
 
-`removeAdventure.sh'
+`removeAdventure.sh`
