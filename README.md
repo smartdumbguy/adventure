@@ -1,7 +1,7 @@
 # adventure
 Simple text adventure game
 
-Install:
+## Install:
 
 `git clone https://github.com/smartdumbguy/adventure`
 
@@ -11,6 +11,6 @@ Install:
 
 `installAdventure.sh`
 
-Uninstall:
+## Uninstall:
 
 `removeAdventure.sh`
