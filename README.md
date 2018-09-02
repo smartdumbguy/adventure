@@ -16,7 +16,6 @@ Enter passowrd
 Done!
 
 NOTE: The install script removes all installation files. 
-
       To override, open "installAdventure.sh" and remove or comment out those lines.
 
 ## Uninstall:
