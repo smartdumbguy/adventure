@@ -13,10 +13,9 @@ Simple text adventure game
 
 Enter passowrd
 
-Done!
+## To Run:
 
-NOTE: The install script removes all installation files. 
-      To override, open "installAdventure.sh" and remove or comment out those lines.
+`adventure`
 
 ## Uninstall:
 
