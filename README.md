@@ -7,6 +7,8 @@ Install:
 
 `cd adventure`
 
+`chmod +x installAdventure.sh`
+
 `installAdventure.sh`
 
 Uninstall:
