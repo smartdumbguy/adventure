@@ -6,6 +6,6 @@ chmod +x removeAdventure.sh
 
 sudo cp adventure removeAdventure.sh /usr/local/bin
 
-make clean
+cd ../
 
-rm -rf ../adventure
+rm -rf /adventure
