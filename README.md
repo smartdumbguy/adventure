@@ -11,6 +11,10 @@ Simple text adventure game
 
 `./installAdventure.sh`
 
+Enter passowrd
+
+Done!
+
 ## Uninstall:
 
 `removeAdventure.sh`
