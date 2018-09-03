@@ -1,7 +1,12 @@
 # adventure
 Simple text adventure game
 
-## Install:
+
+## Dependencies
+
+`git make g++`, or another compiler
+
+## Install
 
 `git clone https://github.com/smartdumbguy/adventure`
 
@@ -13,10 +18,10 @@ Simple text adventure game
 
 Enter passowrd
 
-## To Run:
+## To Run
 
 `adventure`
 
-## Uninstall:
+## Uninstall
 
 `removeAdventure.sh`
